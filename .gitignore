@@ -1,0 +1,17 @@
+.DS_Store
+.idea/
+.vscode/
+*.iml
+*.log
+
+.env
+backend/.env
+backend/target/
+backend/uploads/
+
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+
+uploads/
+backend/uploads/
